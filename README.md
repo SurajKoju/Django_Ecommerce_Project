@@ -1,5 +1,5 @@
 # Django_Ecommerce_Project
-This project is created by using Frontend Bootstrap, HTML, CSS, JS and in Backend we used Django for serverside scripting. The Login and Viewing the item isn't completed.
+This project is created by using Frontend Bootstrap, HTML, CSS, JS and in Backend we used Django for serverside scripting. The Login and Viewing the item isn't completed. This project is hosted in the pythonanywhere.com
 
 Index_Page of Ecommerce Site
 
